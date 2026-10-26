@@ -3,14 +3,14 @@
 Links to project repos:
 
 
-# Radio Project
+## Radio Project
 https://github.com/Toasting-machine/Radio-Receiver
 
-# Audio Visualizer Project
+## Audio Visualizer Project
 
-# Rubber Band Car Project
+## Rubber Band Car Project
 
-# Temperature Controlled Fan Project
+## Temperature Controlled Fan Project
 
 ## Contact
 
